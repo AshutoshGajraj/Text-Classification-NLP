@@ -1,0 +1,6 @@
+# Datasets
+data
+newsgroups_datasets
+
+# models
+notebooks/model_for_nuclei.pt
