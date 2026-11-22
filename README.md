@@ -212,4 +212,8 @@ There is currently no standalone `src/` implementation or test suite in the proj
 
 ## License and dataset attribution
 
+The dataset used in this project is cited as:
+
+> Mitchell, T. (1997). *Twenty Newsgroups* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5C323
+
 No project license file is currently included. The 20 Newsgroups data is a historical collection of Usenet postings; verify the terms and attribution requirements of the source distribution before redistributing the data.
