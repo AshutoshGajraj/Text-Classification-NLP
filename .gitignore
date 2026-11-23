@@ -4,3 +4,4 @@ newsgroups_datasets
 
 # models
 notebooks/model_nlp_classification.pt
+notebooks/model_nlp_classification_all_data.pt
